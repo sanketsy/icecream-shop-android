@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backnew"
+    android:layout_height="match_parent"
+    tools:context=".ForgotActivity">
+
+
+    <EditText
+        android:id="@+id/etMailForgot"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="220dp"
+        android:hint="Enter Registered E-Mail"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:inputType="textEmailAddress" />
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="300dp"
+        android:layout_height="62dp"
+        android:background="@color/maza"
+        android:textColor="@color/whiiii"
+        android:layout_marginTop="120dp"
+        android:layout_gravity="center"
+        android:text="Reset" />
+</LinearLayout>

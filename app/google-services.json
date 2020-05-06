@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265063713739",
+    "firebase_url": "https://icy-toppings.firebaseio.com",
+    "project_id": "icy-toppings",
+    "storage_bucket": "icy-toppings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265063713739:android:0e774532bd52eb67cdc44e",
+        "android_client_info": {
+          "package_name": "com.example.icytoppings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265063713739-5dqd139g3il6ghlm6njip7agpqhp8lmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.icytoppings",
+            "certificate_hash": "25b4bd4e782513d80cdd7a6d4bfcba65a0d08216"
+          }
+        },
+        {
+          "client_id": "265063713739-lbs94r0unu1k7v0kqu7hkudcpugdgvo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qw83yzSlibqrkGA1EP0JBy-OX6W9DEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265063713739-lbs94r0unu1k7v0kqu7hkudcpugdgvo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
